@@ -1,0 +1,13 @@
+package com.joukou.confessly;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ConfesslyApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ConfesslyApplication.class, args);
+	}
+
+}
